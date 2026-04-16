@@ -3,3 +3,4 @@ name = "Botlhale"
 
 print(greetings + " " + name)
 
+print(greetings)

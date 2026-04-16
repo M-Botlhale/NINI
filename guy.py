@@ -1,3 +1,5 @@
 greetings="hello"
 
-print(greetings)
+age = 25
+
+print(greetings + age)

@@ -1,3 +1,5 @@
 greetings="hello"
+name = "Botlhale"
 
-print(greetings)
+print(greetings + " " + name)
+
